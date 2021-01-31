@@ -1,15 +1,15 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-todo_api/react-frontend/node_modules
-todo_api/react-frontend/.pnp
-todo_api/react-frontend/.pnp.js
+TODO/react-frontend/node_modules
+TODO/react-frontend/.pnp
+TODO/react-frontend/.pnp.js
 
 # testing
-todo_api/react-frontend/coverage
+TODO/react-frontend/coverage
 
 # production
-todo_api/react-frontend/build
+TODO/react-frontend/build
 
 # misc
 .DS_Store
@@ -19,6 +19,6 @@ todo_api/react-frontend/build
 .env.production.local
 .env
 
-todo_api/react-frontend/npm-debug.log*
-todo_api/react-frontend/yarn-debug.log*
-todo_api/react-frontend/yarn-error.log*
+TODO/react-frontend/npm-debug.log*
+TODO/react-frontend/yarn-debug.log*
+TODO/react-frontend/yarn-error.log*
